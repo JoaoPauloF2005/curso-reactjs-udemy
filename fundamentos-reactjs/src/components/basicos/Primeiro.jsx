@@ -7,6 +7,6 @@ export default function Primeiro() {
             <h2>Primeiro Componente</h2>
             <p>{msg}</p>
         </div>
-    )
+    );
 }
 
